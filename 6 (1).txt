@@ -1,0 +1,18 @@
+
+
+1. Convierte los datos de la Hoja1 en una tabla con un estilo personalizado por ti, diferente de los que se encuentran de manera predeterminada. 
+2. Coloca un nombre relevante a esta tabla, elegido por tí.
+3. Completa las columnas que se encuentran en blanco entre las columnas G y H (recuerda utilizar referencias estructuradas para facilitar los cálculos):
+	• La columna total se calcula como el monto total de la transacción, es decir, la multiplicación de la cantidad de artículos por su precio unitario
+	• La comisión del 7% se calcula sobre ese total, es decir lo obtendremos al multiplicar el Total por 0.07
+	• La ganancia final es la diferencia entre el total, menos la comisión
+3. Agrega una fila de totales al final de la tabla, que realice los siguientes cálculos:
+	• El recuento de la columna fecha
+	• El promedio de la cantidad
+	• Y la suma de cada columna que contenga valores en moneda
+4. Asegúrate de que en la primera columna de la tabla sólo se puedan ingresar fechas comprendidas entre el 01/07/2023 y el 31/07/2023
+5. Crea un segmentador para elegir entre los diferentes vendedores, de modo tal que sea más sencillo filtrarlos.
+6. Por fuera de la tabla, utilizando únicamente referencias estructuradas, y aplicando las fórmulas apropiadas, obtén la siguiente información:
+	• La suma de cantidad
+	• El promedio de comisión por venta
+	• El valor más alto de ganancia final (es decir, el valor máximo)
